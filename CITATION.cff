@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this tool in your research, please cite it using the information below."
+title: "Western Ghats Species Presence Location Tool"
+type: software
+
+authors:
+  - family-names: "Nazareth"
+    given-names: "Orvill"
+
+version: "1.0.0"
+date-released: "2026-09-25"
+
+repository-code: "https://github.com/orvillnazareth/Western-Ghats-Species-Presence-Location-Tool"
+url: "https://github.com/orvillnazareth/Western-Ghats-Species-Presence-Location-Tool"
+
+abstract: >
+  An interactive Shiny application for approximating species observation
+  locations across the Western Ghats using a standardized square grid.
+
+license: "MIT"
